@@ -1,3 +1,3 @@
 # whatsappcrasher
-Crash anyone whatsapp with text
+crash anyone whatsapp with text
 # SidheMaut
